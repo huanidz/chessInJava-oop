@@ -1,5 +1,5 @@
 # chessInJava-oop
-College OOP Project
+Uni OOP Project
 
 - Language: Java
 - Using: Builder, Singleton, Template
