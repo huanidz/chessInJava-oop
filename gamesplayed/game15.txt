@@ -1,0 +1,8 @@
+935684260
+White Player: abc
+Black Player: def
+BLACK RESIGN
+---------------------------------
+e4 e5 Nf3 Nc6 Bb5 a6 
+Bxc6 dxc6 Nxe5 Qd5 Nf3 Qxe4 
+Qe2 Qxe2 Kxe2 

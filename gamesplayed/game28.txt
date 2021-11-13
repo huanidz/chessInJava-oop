@@ -1,0 +1,15 @@
+92124797
+White Player: huan
+Black Player: nguyen
+WHITE RESIGN
+---------------------------------
+e4 e5 Bc4 Nc6 Bxf7 Kxf7 
+Qh5 g6 Qf3 Nf6 d4 Bg7 
+dxe5 Nxe5 Qb3 d5 exd5 Bf5 
+d6 Ke8 dxc7 Qxc7 Bg5 Qa5 
+c3 Qxc3 Kd1 Qc2 Ke1 Nd3 
+Kf1 Qxb3 Na3 Qd1 Rxd1 Ne4 
+Ne2 Ng3 fxg3 O-O Nf4 Nxf4 
+Ke1 Nh3 Rd2 Nf4 O-O Rf6 
+Rd1 Kf8 Kf2 Ke8 Rh1 Rf8 
+Rd3 Rh8 Rf1 O-O 

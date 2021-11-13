@@ -1,0 +1,10 @@
+803067630
+White Player: null
+Black Player: null
+BLACK RESIGN
+----------------------------------------------------------
+d4 e5 dxe5 Nc6 Nf3 Bc5 
+e6 dxe6 Qxd8 Kxd8 Bf4 Nf6 
+Bxc7 Kxc7 Ne5 Nxe5 Kd2 Bb4 
+c3 Bxc3 Nxc3 Nc4 Kd3 Nd5 
+Kxc4 

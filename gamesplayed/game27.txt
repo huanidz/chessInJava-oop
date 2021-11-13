@@ -1,0 +1,7 @@
+16643658
+White Player: gfdg
+Black Player: gdfg
+WHITE RESIGN
+---------------------------------
+e4 e5 Nc3 Nf6 f4 exf4 
+e5 Nd5 Nxd5 Qg5 

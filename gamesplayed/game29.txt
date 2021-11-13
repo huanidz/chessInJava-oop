@@ -1,0 +1,7 @@
+92881113
+White Player: g
+Black Player: d
+BLACK RESIGN
+---------------------------------
+e4 e5 Qh5 g6 Qxe5 Be7 
+Qxh8 

@@ -1,0 +1,5 @@
+790964004
+White Player: null
+Black Player: null
+WHITE RESIGN
+e4 e5 

@@ -1,0 +1,6 @@
+251661497
+White Player: huan
+Black Player: minh
+BLACK RESIGN
+---------------------------------
+e4 f5 exf5 

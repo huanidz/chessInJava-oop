@@ -1,0 +1,5 @@
+935168208
+White Player: abc
+Black Player: def
+WHITE RESIGN
+---------------------------------
